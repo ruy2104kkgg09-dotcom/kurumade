@@ -1,4 +1,4 @@
-const CACHE_NAME = "kuruma-app-20260620015224";
+const CACHE_NAME = "kuruma-app-20260620092558";
 const ASSETS = ["./","index.html","manifest.json",
   "assets/icons/icon-192.png","assets/icons/icon-512.png",
   "assets/icons/icon-maskable-192.png","assets/icons/icon-maskable-512.png",
